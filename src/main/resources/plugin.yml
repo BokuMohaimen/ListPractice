@@ -1,0 +1,7 @@
+name: ListPractice
+version: @version@
+main: list.listpractice.ListPractice
+api-version: 1.16
+authors: [Mohaimen_Ksr]
+commands:
+  mlist:
